@@ -1,0 +1,27 @@
+body {
+  padding-left: 15px;
+}
+
+h1 {
+  
+  color: gray;
+  font-family: 'Lobster'
+}
+
+h3 {
+  color: #fca205;
+ 
+} 
+
+.header {
+  background:  #ff9400;
+  margin-top: 0;
+  padding: 20px;
+  text-align: center 
+}
+
+.post {
+  border: 1px solid salmon;
+  margin-top: 10px;
+  margin-left: 10px;
+}
